@@ -33,7 +33,7 @@ Otra herramienta a emplear son las presentaciones que se han abarcado en la clas
 
 Algunas de las páginas empleadas para definiciones e información general fueron las siguientes:
 
-* Jiménez J. [Clase de química 1] (http://javierjimenez302.blogspot.com.co/2012/12/suelo-se-le-denomina-sueloal-elemento-o.html), Distrito Federal, México 2012.
+* Jiménez J. [Clase de química 1](http://javierjimenez302.blogspot.com.co/2012/12/suelo-se-le-denomina-sueloal-elemento-o.html), Distrito Federal, México 2012.
 * Ángeles C. [Identificación de Alófono del suelo](https://es.slideshare.net/kryzdfragg/practica-alofano). Universidad de Ciencias y Artes de Chiapas, 2010.
 * León R. [Carbonatos del suelo: Curso de Diagnóstico de Suelos en Campo](http://www.madrimasd.org/blogs/universo/2007/05/01/64693). Madrid Blogs, 2007.
 * Ciancaglini N. [Guía para la determinación de textura de suelos por método organoléptico](http://www.prosap.gov.ar/Docs/INSTRUCTIVO%20_R001_Guía%20para%20la%20determinación%20de%20textura%20de%20suelos%20por%20método%20organoléptico.pdf), 2016.
