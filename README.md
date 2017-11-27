@@ -27,8 +27,16 @@ Al realizar un estudio de suelos se cuantifican ciertas características del mis
 
 La descripción detallada de los suelos se hace en base a la clasificación realizada por el [departamento de agricultura de los estados unidos (USDA)](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs142p2_051546.pdf) quien ha determinado varios parámetros o requerimientos básicos necesarios.
 
+La implementación de la selección del color del suelo se realizó en base a la tabla [munsell](http://www.edafologia.net/programas_suelos/practclas/abcsol/comun/munsells.htm)
 
 Otra herramienta a emplear son las presentaciones que se han abarcado en la clase “[suelos agrícolas](https://sites.google.com/unal.edu.co/ingenieril)” en la que que el grupo es asistente.
+
+Algunas de las páginas empleadas para definiciones e información general fueron las siguientes:
+
+* Jiménez J. [Clase de química 1] (http://javierjimenez302.blogspot.com.co/2012/12/suelo-se-le-denomina-sueloal-elemento-o.html), Distrito Federal, México 2012.
+* Ángeles C. [Identificación de Alófono del suelo](https://es.slideshare.net/kryzdfragg/practica-alofano). Universidad de Ciencias y Artes de Chiapas, 2010.
+* León R. [Carbonatos del suelo: Curso de Diagnóstico de Suelos en Campo](http://www.madrimasd.org/blogs/universo/2007/05/01/64693). Madrid Blogs, 2007.
+* Ciancaglini N. [Guía para la determinación de textura de suelos por método organoléptico](http://www.prosap.gov.ar/Docs/INSTRUCTIVO%20_R001_Guía%20para%20la%20determinación%20de%20textura%20de%20suelos%20por%20método%20organoléptico.pdf), 2016.
 
 ## Antecedentes
 
@@ -57,4 +65,8 @@ Describir las características generales (propiedades físicas y químicas) que 
 
 ## Requisitos
 
+El lenguaje empleado por su practicidad para implementar la interfaz gráfica es Java. Las librerias empleadas en el desarrollo del programa fueron:
+*
+*
+*
 <Indique el lenguaje y los requerimientos esperados de la aplicación. Liste las [librerías de Processing](https://processing.org/reference/libraries/) que se emplearían para su desarrollo.>
