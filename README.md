@@ -67,10 +67,10 @@ Describir las características generales (propiedades físicas y químicas) que 
 
 El lenguaje empleado por su practicidad para implementar la interfaz gráfica es Java. Las librerias empleadas en el desarrollo del programa fueron:
 
-Javax.swing Se usa para la parte de ventana, botones presentes en el formulario y ventanas emergentes.
-Java.sql . Empleada para resultados de búsqueda 
-Java.util. Muestra errores de login o de paso de ventana.
-Java.text. Empleado para seleccionar de la variable calendario la fecha del sistema.
+* Javax.swing Se usa para la parte de ventana, botones presentes en el formulario y ventanas emergentes.
+* Java.sql . Empleada para resultados de búsqueda 
+* Java.util. Muestra errores de login o de paso de ventana.
+* Java.text. Empleado para seleccionar de la variable calendario la fecha del sistema.
 
 La aplicación guarda datos y permite su posterior modificación y revisión para análisis.
 
